@@ -1,4 +1,6 @@
+项目名称 占座电影网
 架构，vue
 版本管理工具 git
 压缩工具 gulp
 插件 bootstrap swiper
+
